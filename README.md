@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shoaibahmed997
-- 👀 I’m interested in Web technologies, Web3 and Machine Learning
+- 👀 I’m interested in Web technologies and Machine Learning
 - 🌱 I’m currently learning and experimenting with different tech stacks 
 - 💞️ I’m looking to collaborate on Web Technologies.
-- Old to coding, new to github
 - 📫 Reach out to me on twitter @shoaib_549
 
 <!---
